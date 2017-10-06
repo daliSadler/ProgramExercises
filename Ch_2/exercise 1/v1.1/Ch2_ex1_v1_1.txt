@@ -1,0 +1,58 @@
+Ch2_ex1
+Version 1.1
+Enith D. Sadler
+
+----- Programming Exercise #1 -----
+Instructions from page 62.
+“Write a C++ program that displays your name and address (or if you value 
+your privacy, a fictitious name and address).” 
+
+----- PLAN -----
+- Create project on VS15, named “Ch2_ex1” in folder v1.1
+- Create source file named “main.cpp”
+- Use directive “#include <iostream>” for access to cout
+- Use directive ‘using namespace std::cout’
+- Create function main()
+- In function main(), use cout to print the required information
+-- Display the following message:
+	
+	"
+	Here is my message in English.
+
+	My name is Enith Dalí Sadler, but I prefet to go by
+	Dalí or Dolly in English. Other nicknames I have used
+	at work are 'eds' or 'edsadler'. Online you may also 
+	know me as 'Dealica', 'Deelia' or even 'Dorika'.
+	Other usernames I have used before are 'Dali08',
+	'BoricuaDali' and 'BoricuaDali08'.
+
+	I currently reside in Southwestern NY, but
+	I lived in PR for about 12 years. I can fluently
+	communicate in Spanish and English.
+
+	-------------------------------------------------------
+
+	Aqui esta mi mensaje en Español.
+	
+	Me llamó Enith Dalí Sadler, pero prefiero ir por Dalí
+	o Dolly en inglés. Otros apodos que e usado en el trabajo
+	son 'eds' o 'edsadler'. Por la internet me podrias
+	conocer como 'Dealica', 'Deelia', o hasta 'Dorika'.
+	Otros nombres de usuarios que e usado anteriormente
+	son 'Dali08', 'BoricuaDali' y 'BoricuaDali08'.
+
+	Presentamente vivo en el Suroeste de NY, pero vivi 
+	en PR por casi 12 años. Me puedo comunicar fluentemente
+	en Español e Inglés.
+	"
+
+- call cin.get() twice to keep output window open to review results.
+- Exit the function
+
+----- Book Reference -----
+Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 62.
+
+==========================================================================
+----- FIXES TO MAKE ------
+- Be able to print the special characters used in Spanish vocabulary.
