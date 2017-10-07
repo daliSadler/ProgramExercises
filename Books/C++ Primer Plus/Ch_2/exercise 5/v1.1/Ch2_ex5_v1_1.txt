@@ -17,7 +17,29 @@ For reference, here is the formula for making the conversion:
 	Fahrenheit = 1.8 * degrees Celsius + 32.0"
 
 ----- PLAN -----
-
+- Create "Empty" project on VS15 named "Ch2_ex5_v1.1"
+- Create source file named "main.cpp"
+-- Add comments of the project goals
+-- Use directive "#include <iostream>" to access cout, cin and endl commands
+-- Use directive "using std::cout;", "using std::cin;" and "using std::end;"
+	to limit access of std class to only cout, cin and endl
+-- Create convertion function prototype named 
+	"double celsiusToFahrenheit(double a);"
+-- Create "int main(void)" function
+-- Create two 'double' variables named "celsius" and "fahrenheit"
+-- Ask user for celsius input using "cout << "Please enter a Celsius value: "
+-- store celsius input from user into 'celsius' variable by using	
+	"cin >> celsius;"
+-- display celsius variable along with the fahrenheit conversion using
+	"cout << celsius << " degrees Celsius is " << fahrenheit << 
+	" degrees Fahrenheit." << endl;"
+-- keep output window open with cin.get() called twice
+-- close application using "return 0;" command
+- create prototype definition
+-- create a second variable to hold results "double b"
+-- convert celsius to fahrenheit by using formula 
+	"fahrenheit = 1.8*celsius+32.0
+-- "return b;"
 
 
 ----- Book Reference -----
