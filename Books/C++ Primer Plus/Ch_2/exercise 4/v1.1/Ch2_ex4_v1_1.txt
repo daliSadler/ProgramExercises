@@ -1,0 +1,24 @@
+Ch2_ex4
+Version 1.1
+Enith D. Sadler
+
+----- Programming Exercise #4 -----
+Instructions from page 63 (Prata, 2013).
+
+"Write a program that asks the user to enter his or her
+age. The program then should display the age in months:
+
+	Enter you age: 29
+
+	Your age in months is 384."
+
+----- PLAN -----
+
+
+
+----- Book Reference -----
+Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 63.
+
+==========================================================================
+----- FIXES TO MAKE ------

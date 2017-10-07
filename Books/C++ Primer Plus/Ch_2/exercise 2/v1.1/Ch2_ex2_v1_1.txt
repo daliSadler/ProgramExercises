@@ -1,0 +1,35 @@
+Ch2_ex2
+Version 1.1
+Enith D. Sadler
+
+------ Programming Exercise #2 -----
+Instructions from page 62 (Prata, 2013).
+
+"Write a C++ program that asks for a distance in furlongs
+and converts it to yards. (One furlong is 220 yards.)"
+
+----- PLAN -----
+- Create project on VS15, named "Ch2_ex2" in folder
+	-- Books > C++ Primer Plus > Chapter 2 > exercise 2 > v1.1
+- Create source file named "main.cpp"
+- Use directive "#include <iostream>" for access to cin and cout
+- use directive 'using std::cout;', 'using std::endl;' and 'using std::cin'
+- Create function 'int main()'
+- In function 'main()' create two 'double' variables 'furlong' and 'yards'
+	to store data from user and calculation results.
+- Ask user to input data
+- Acquire data from user by using "cin >> " ask for furlong distance to 
+	convert to yards, save data on 'furlong' variable.
+- Using input saved to 'furlong' variable convert to yard by using formula
+	-- yard = (furlong*220)
+- Using "cout << " display results
+- Call cin.get() twice to keep output window open
+- Close program with "return 0;" statement
+
+
+----- Book Reference -----
+Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 62.
+
+==========================================================================
+----- FIXES TO MAKE ------
