@@ -14,10 +14,25 @@ Instructions from page 63 (Prata, 2013).
 	See how they run
 
 One function, called two times, should produce the first two
-lines, and teh remaining function, also called twice, should
+lines, and the remaining function, also called twice, should
 produce the remaining output."
 
 ----- PLAN -----
+- Create a project on VS15 named "Ch2_ex3_v1.1"
+- Create source file named "main.cpp"
+- Add comments of the project goal
+- Use directive "#include <iostream>" to access cout, cin and endl
+- Use directive "using std::cout;", "using std::cin" and 
+	"using std::endl" to limit access to std commands
+- Create two defined function named "void blindMice(void);" and 
+	"void howTheyRun(void);"
+- Create "int main(void)" function
+-- call the user-defined functions, twice each
+--- "blindMice()" * 2
+--- "howTheyRun()" * 2
+-- call cin.get() twice to keep output open until user input
+- exit application with "return 0;" command.
+- Define the user-defined functions created above main()
 
 
 

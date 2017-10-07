@@ -12,7 +12,7 @@ using std::cout;
 using std::endl;
 using std::cin;
 
-int main()
+int main(void)
 {
 	cout << endl << "Here is my message in English." << endl 
 		<< endl << "My name is Enith Dalí Sadler, but I prefer to go by "

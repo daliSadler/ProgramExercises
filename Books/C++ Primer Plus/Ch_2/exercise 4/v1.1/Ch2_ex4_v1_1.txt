@@ -8,13 +8,26 @@ Instructions from page 63 (Prata, 2013).
 "Write a program that asks the user to enter his or her
 age. The program then should display the age in months:
 
-	Enter you age: 29
+	Enter your age: 29
 
 	Your age in months is 384."
 
 ----- PLAN -----
-
-
+- Create a project on VS15 named "Ch2_ex4_v1.1"
+- Create source file named "main.cpp"
+- Add comments of the project goals
+- Use directive "#include <iostream> to access cout, cin and endl
+- Use directive "using std::cout;", "using std::cin", and "using std::endl;"
+	to limit access to std commands
+- Create "int main(void)" function
+- Create two 'double' variables named 'years' and 'months'
+- Ask user to input an age using "cout << "What is your age? ;"
+	"cin >> years;" and save to 'years' variables
+- Calculate years in month by multiplying by 12 and saving results in variable
+	'months' (months = years*12)
+- Return results using "cout << months << endl;"
+- Keep output window open with "cin.get();" command being called twice
+- Close application with "return 0;" command
 
 ----- Book Reference -----
 Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
