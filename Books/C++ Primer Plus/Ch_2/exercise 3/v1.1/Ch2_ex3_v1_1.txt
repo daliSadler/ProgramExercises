@@ -1,0 +1,29 @@
+Ch2_ex3
+Version 1.1
+Enith D. Sadler
+
+----- Programming Exercise #3 -----
+Instructions from page 63 (Prata, 2013).
+
+"Write a C++ prgoram that uses three user-defined functions
+(counting main() as one) and produces the following output:
+
+	Three blind mice
+	Three blind mice
+	See how they run
+	See how they run
+
+One function, called two times, should produce the first two
+lines, and teh remaining function, also called twice, should
+produce the remaining output."
+
+----- PLAN -----
+
+
+
+----- Book Reference -----
+Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 63.
+
+==========================================================================
+----- FIXES TO MAKE ------

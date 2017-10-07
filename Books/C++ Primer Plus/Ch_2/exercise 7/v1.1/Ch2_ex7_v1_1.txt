@@ -1,0 +1,28 @@
+Ch2_ex7
+Version 1.1
+Enith D. Sadler
+
+----- Programming Exercise #7 -----
+Instructions from page 63 (Prata, 2013). 
+
+"Write a program that asks the user to enter an hour value and a minute
+value. The main() function should then pass these two values to a type
+'void' function that displays the two values in the format shown in the
+following sample run:
+
+	Enter the number of hours: 9
+	Enter the number of minutes: 28
+	Time: 9:28"
+
+----- PLAN ------
+
+
+
+
+
+----- Book Reference -----
+Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 63.
+
+==========================================================================
+----- FIXES TO MAKE ------
