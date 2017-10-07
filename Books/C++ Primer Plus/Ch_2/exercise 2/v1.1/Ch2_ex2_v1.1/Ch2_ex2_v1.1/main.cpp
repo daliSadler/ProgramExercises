@@ -17,7 +17,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-int main()
+int main(void)
 {
 	// variables
 	double furlong, yard;
