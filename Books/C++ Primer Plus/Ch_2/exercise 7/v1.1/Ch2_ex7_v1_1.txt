@@ -15,10 +15,34 @@ following sample run:
 	Time: 9:28"
 
 ----- PLAN ------
-
-
-
-
+- Create an "Empty" project on VS15 named "Ch2_ex7_v1.1"
+- Create source file named "main.cpp"
+- Add comments of project goals
+- Use directive "#include <iostream>" to gain access to cout, cin and endl
+- Use directive "using std::cin;", "using std::cout;" and "using std::endl;"
+	to limit access of std class to only cout, cin and endl
+- PROTOTYPE: Create a void function used to display the time input by user
+	"void printTime(double HR, double MIN);"
+- Create "int main(void)" function
+-- Create two double type variables to saved data acquired from user
+	"double userHR, userMIN;"
+-- Acquire data from user
+	"cout << "Enter the number of hours: ";"
+	"cin >> userHR;"
+	"cout << "Enter the number of minutes: ";"
+	"cin >> userMIN;"
+-- Call user-defined function and pass data acquired from user
+	"printTime(userHR, userMIN);"
+-- Keep output window open
+	"cin.get();"
+	"cin.get();"
+-- close application
+	"return 0;"
+- PROTOTYPE DEFINITION:
+	void printTime(double HR, double MIN)	
+	{
+		cout << "Time: " << HR << ":" << MIN << endl;
+	}
 
 ----- Book Reference -----
 Prata, Stephen. “Chapter 2 Setting Out to C++.” C++ Primer Plus, Sixth ed.,
