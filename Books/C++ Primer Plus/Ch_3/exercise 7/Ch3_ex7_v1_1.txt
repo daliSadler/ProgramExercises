@@ -1,0 +1,18 @@
+Ch3_ex7
+Version 1.1
+Enith D. Sadler
+
+----- Program Exercise -----
+Instructions from page 113 (Prata, 2013).
+
+------ PLAN ------
+
+
+
+------ Book Reference -----
+Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 113.
+
+
+=================================================================================
+----- FIXES TO MAKE -----
