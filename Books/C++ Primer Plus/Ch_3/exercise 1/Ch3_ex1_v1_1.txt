@@ -11,7 +11,14 @@ character to indicate where to type the response. Also use a "const" symbolic
 constant to represent the conversion factor."
 
 ----- PLAN ------
-
+- Create an empty project on VS15 named "Ch3_ex1_v1.1"
+- Create a "main.cpp" file.
+- Add details of the projects goal.
+- Add "#include <iostream>" file to access cout, cin and endl
+- Add command line "using std::cout;", "using std::cin;", and "using std::endl;"
+	to limit access to only cout, cin and endl
+- Create "int main()" function
+	- 
 
 ----- Book Reference -----
 Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
