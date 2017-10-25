@@ -18,7 +18,16 @@ constant to represent the conversion factor."
 - Add command line "using std::cout;", "using std::cin;", and "using std::endl;"
 	to limit access to only cout, cin and endl
 - Create "int main()" function
-	- 
+	- create variables int inches and feet
+	- ask user to input their height
+	- use "cin.putback('_');" to display underscore prior to the heightIN
+		variable
+	- perform calculations
+		- convert height in inches to feet by dividing inches by 12
+		- save reminder of inches for future use
+	- display conversion
+	- keep window open until user's next keystroke with "cin.get()"
+- close application with "return 0;" command
 
 ----- Book Reference -----
 Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
@@ -27,3 +36,4 @@ Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
 
 ==============================================================================
 ----- FIXES TO MAKE -----
+- If heightIN is '0' keep window open and ask for input from user again.
