@@ -16,6 +16,25 @@ by the square of your height in meters. Use symbolic constants to represent
 the various convertion factors."
 
 ------ PLAN ------
+- Create empty project on Visual Studio 2015 named "Ch3_ex2_v1.1"
+- Create a source file named "main.cpp"
+--- Add projects details
+--- include iostream library
+--- limit use of iostream to only cin, cout and endl
+--- Create the int main function
+------- Create variables to hold users data of type double (height feet and 
+	inches, and weights)
+------- Create const variables to create conversions
+------- Ask user for their height in feet and inches, and their weight, save 
+	data in the previously created variables
+------- Convert feet data to inches by multiplying by twelve, save new data in 
+	inches variable
+------- Convert inches data to meters by multiplying by 0.0254
+------- Convert weight data to kilograms by dividing by 2.2
+------- Compute BMI by dividing your mass in kilograms by the square root of 
+	your height in meters
+------- Use cin.get() twice to keep output window open until next keystroke
+------- Close application with command "return 0;"
 
 
 
