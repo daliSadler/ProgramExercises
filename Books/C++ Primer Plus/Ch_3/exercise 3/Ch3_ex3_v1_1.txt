@@ -18,7 +18,22 @@ value. A sample run should look like this:
 	37 degrees, 51 minutes, 19 seconds = 37.8553 degrees "
 
 ------ PLAN ------
-
+- Create an empty project on Visual Studio 2015 named "Ch3_ex3_v1.1"
+- Create a source file named "main.cpp"
+--- Add project details
+--- include iostream library
+--- limit use of iostream to only cin, cout and endl
+--- Create "int main()" function
+------ Create variables to hold user data of type double (degrees,
+	 arcMin, arcSec)
+------ Create const varible to create conversions
+------ Ask user for the latitude, arc minute and arc degree
+------ Convert data to decimal form by:
+	- dividing from last data to first data input by 60
+	  i.e. (((19/60) + 51)/60) +37
+------ Output result to user
+------ Maintain window open until users next keystroke (cin.get() twice)
+------ Close application with "return 0;" command
 
 
 ------ Book Reference -----
