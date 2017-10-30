@@ -31,6 +31,8 @@ value. A sample run should look like this:
 ------ Convert data to decimal form by:
 	- dividing from last data to first data input by 60
 	  i.e. (((19/60) + 51)/60) +37
+		using the following link for details,
+	http://mathforum.org/sarah/hamilton/ham.degrees.html
 ------ Output result to user
 ------ Maintain window open until users next keystroke (cin.get() twice)
 ------ Close application with "return 0;" command
