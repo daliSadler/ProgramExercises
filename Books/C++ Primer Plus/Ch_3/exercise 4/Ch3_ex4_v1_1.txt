@@ -11,11 +11,23 @@ equivalent time in days, hours, minutes, and seconds. Use symbolic constants to
 represent the number of hours in the day, the number of minutes in an hour, and
 the number of seconds in a minute. The output should look like this:
 
-	Enter the number of seconds: 31600000
+	Enter the number of seconds: 31 600 000
 	31600000 seconds = 365 days, 17 hours, 46 minutes, 40 seconds "
 
 ------ PLAN ------
-
+- Create an empty project on Visual Studio 2015 named "Ch3_ex4_v1.1"
+- Create source file named "main.cpp"
+--- Add details of project
+--- Add access to iostream library
+--- Limit access of iostream library to only cin, cout and endl
+--- Create "int main(void)" function to initiate the program
+------ Initiate variables type long (or long long)
+------ Create const variables of max days, hours, minutes and seconds (DHMS)
+------ Ask user for data to convert from seconds to DHMS format
+------ Create const converter formula
+------ Output results to user
+------ Keep window open until next keystroke with "cin.get();" twice
+------ close application with "return 0;"
 
 
 ------ Book Reference -----
