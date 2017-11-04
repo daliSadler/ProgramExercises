@@ -18,8 +18,25 @@ The output should look something like this:
 You can use the Internet to get more recent figures."
 
 ------ PLAN ------
-
-
+- Create empty project on Visual Studio 2015 named "Ch3_ex5_v1.1"
+- Create source file named "main.cpp"
+- Add project details
+- Include libraries required
+	"#include <iostream>"
+- limit use to libraries
+	"using std::cin; using std::cout; using std::endl;"
+- Create "int main(void)" function to run application
+----- Create variables of type long long
+	"long long world, US;
+----- Ask for user input
+----- Store user input for future use
+----- Create a constant converter formula
+	"const long long populationPercentage = (US/world)*100;
+----- Output the results with cout
+----- Maintain window open until next keystroke with 
+	"cin.get(); cin.get();"
+----- Close application with 
+	"return 0;"
 
 ------ Book Reference -----
 Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
@@ -28,3 +45,5 @@ Prata, Stephen. "Chapter 3 Dealing with Data." C++ Primer Plus, Sixth ed.,
 
 =================================================================================
 ----- FIXES TO MAKE -----
+- Show correct percentage reminder (numbers after the decimal)
+	- Maybe use math library
