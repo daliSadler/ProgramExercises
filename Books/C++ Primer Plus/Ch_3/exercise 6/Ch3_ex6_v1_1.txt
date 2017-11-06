@@ -12,7 +12,17 @@ petrol in liters and then report the result European style, in liters per 100
 kilometers."
 
 ------ PLAN ------
-
+- Create an empty project on Visual Studio 2015 named "Ch3_ex6_v1.1"
+- Create source file named "main.cpp"
+- Add libraries
+- limit use to iostream library to only cin, cout and endl
+- create "int main(void)" function to run program
+----- create variables
+----- ask for user input
+----- convert data
+----- output results to user
+----- maintain window open until next keystroke
+----- close application
 
 
 ------ Book Reference -----
