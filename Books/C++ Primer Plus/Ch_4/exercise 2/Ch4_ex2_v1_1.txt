@@ -1,0 +1,21 @@
+Ch4_ex2
+Version 1.1
+Enith D. Sadler
+
+=========================================================================
+----- PROGRAM EXERCISE -----
+Instructions from page 192 (Prata, 2013).
+
+"Rewrite Listing 4.4, using the C++ string class instead of char arrays."
+
+=========================================================================
+----- PLAN -----
+
+
+========================================================================= 
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 4 Compound Types." C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 192.
+
+=========================================================================
+----- FIXES -----

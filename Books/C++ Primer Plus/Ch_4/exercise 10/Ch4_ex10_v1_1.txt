@@ -1,0 +1,25 @@
+Ch4_ex10
+Version 1.1
+Enith D. Sadler
+
+=========================================================================
+----- PROGRAM EXERCISE -----
+Instructions from page 193 (Prata, 2013).
+
+"Write a program that requests the user to enter three times for the 40-yd
+dash (or 40-meter, if you prefer) and then displays the times and the 
+average. Use an array object to hold the data. (Use a built-in array if
+array is not available.)"
+
+
+=========================================================================
+----- PLAN -----
+
+
+========================================================================= 
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 4 Compound Types." C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 193.
+
+=========================================================================
+----- FIXES -----

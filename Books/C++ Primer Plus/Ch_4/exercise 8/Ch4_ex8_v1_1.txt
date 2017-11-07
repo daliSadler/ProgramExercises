@@ -1,0 +1,37 @@
+Ch4_ex8
+Version 1.1
+Enith D. Sadler
+
+=========================================================================
+----- PROGRAM EXERCISE -----
+Instructions from page 193 (Prata, 2013).
+
+"Do Programming Exercise 7 but use new to allocate a structure instead of
+declaring a structure variable. Also have the program request the pizza
+diameter before it request the pizza company name."
+
+PROGRAM EXERCISE 7
+"William Wingate runs a pizza-analysis service. For each pizza, he needs to
+record the following information:
+
+	- The name of the pizza company, which can consistof more than
+		one word
+	- The diameter of the pizza
+	- The weight of the pizza
+
+Devise a structure that can hold this inforamtion and write a program that
+uses a structure variable of that type. The program should ask the user to
+enter each of the preceding items of information, and then the program 
+should display that information. use cin (or its methods) and cout."
+
+=========================================================================
+----- PLAN -----
+
+
+========================================================================= 
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 4 Compound Types." C++ Primer Plus, Sixth ed.,
+	Addison-Wesley, 2013, p. 193.
+
+=========================================================================
+----- FIXES -----
