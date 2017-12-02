@@ -52,7 +52,7 @@ int main(void)
 	result = Europe_to_US(input);
 	
 	// output results
-	cout << input << " liters/ 100 km is " << result << " mpg.\n\n";
+	cout << result << " liters/ 100 km is " << input << " mpg.\n\n";
 
 	// keep window open until next keystroke from user
 	cin.get(); cin.get();
