@@ -1,0 +1,22 @@
+Ch5_ex6
+Version 1.1
+Enith D. Sadler
+
+==========================================================================
+----- PROGRAM EXERCISE -----
+"Do Programming Exercise 5 but use a two-dimensional array to store input
+for 3 years of monthly sales. Report the total sales for each individual
+year and for the combined years."
+
+==========================================================================
+----- PLAN -----
+
+
+==========================================================================
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 5 Loops and Relational Expressions." C++ Primer
+	Plus, Sixth ed., Addision-Wesley, 2013, p. 251.
+
+==========================================================================
+----- FIXES -----
+

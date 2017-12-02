@@ -1,0 +1,24 @@
+Ch5_ex1
+Version 1.1
+Enith D. Sadler
+
+==========================================================================
+----- PROGRAM EXERCISE -----
+"Write a program that requests the user to enter two integers. The program
+should then calculate and report the sum of all the integers between and 
+including the two integers. At this point, assume that the smaller integer
+is entered first. For example, if the user enter 2 and 9, the program 
+should report that the sum of all integers from 2 through 9 is 44."
+
+==========================================================================
+----- PLAN -----
+
+
+==========================================================================
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 5 Loops and Relational Expressions." C++ Primer
+	Plus, Sixth ed., Addision-Wesley, 2013, p. 251.
+
+==========================================================================
+----- FIXES -----
+

@@ -1,0 +1,21 @@
+Ch5_ex2
+Version 1.1
+Enith D. Sadler
+
+==========================================================================
+----- PROGRAM EXERCISE -----
+"Redo Listing 5.4 using a type array object instead of a built-in array 
+and type long double instead of long long. Find the value of 100!"
+
+==========================================================================
+----- PLAN -----
+
+
+==========================================================================
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 5 Loops and Relational Expressions." C++ Primer
+	Plus, Sixth ed., Addision-Wesley, 2013, p. 251.
+
+==========================================================================
+----- FIXES -----
+
