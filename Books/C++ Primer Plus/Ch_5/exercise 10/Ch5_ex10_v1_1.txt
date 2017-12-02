@@ -1,0 +1,32 @@
+Ch5_ex10
+Version 1.1
+Enith D. Sadler
+
+==========================================================================
+----- PROGRAM EXERCISE -----
+"Write a program using nested loops that asks the user to enter a value for
+the number of rows to display. It should then display that many rows of
+asterisks, with one asterish in the first row, two in the second row, and
+so on. For each row, the asterisks are preceded by the number of periods
+needed to make all the rows display a total number of characters equal to
+the number of rows. A sample run would look like this:
+
+	Enter number of rows: 5
+	....*
+	...**
+	..***
+	.****
+	***** "
+
+==========================================================================
+----- PLAN -----
+
+
+==========================================================================
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 5 Loops and Relational Expressions." C++ Primer
+	Plus, Sixth ed., Addision-Wesley, 2013, p. 252.
+
+==========================================================================
+----- FIXES -----
+

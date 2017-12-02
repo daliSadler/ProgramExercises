@@ -1,0 +1,22 @@
+Ch5_ex9
+Version 1.1
+Enith D. Sadler
+
+==========================================================================
+----- PROGRAM EXERCISE -----
+"Write a program that matches the description of the program in Programming
+Exercise 8, but use a string class object instead of an array. Include the
+string header file and use a relational operator to make the comparison test."
+
+==========================================================================
+----- PLAN -----
+
+
+==========================================================================
+----- BOOK REFERENCE -----
+Prata, Stephen. "Chapter 5 Loops and Relational Expressions." C++ Primer
+	Plus, Sixth ed., Addision-Wesley, 2013, p. 252.
+
+==========================================================================
+----- FIXES -----
+
