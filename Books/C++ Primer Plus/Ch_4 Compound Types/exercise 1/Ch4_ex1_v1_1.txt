@@ -4,7 +4,7 @@ Enith D. Sadler
 
 =========================================================================
 ----- PROGRAM EXERCISE -----
-Instruction from page 192 (Prata, 2013).
+Instructions from page 192 (Prata, 2013).
 
 "Write a C++ program that requests and displays information as shown in
 the following example of output:

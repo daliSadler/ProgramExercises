@@ -10,7 +10,8 @@ Instructions from page 193 (Prata, 2013).
 declaring a structure variable. Also have the program request the pizza
 diameter before it request the pizza company name."
 
-PROGRAM EXERCISE 7
+PROGRAM EXERCISE 7 
+(Prata, 2013, p. 193)
 "William Wingate runs a pizza-analysis service. For each pizza, he needs to
 record the following information:
 

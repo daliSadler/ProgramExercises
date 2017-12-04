@@ -4,6 +4,8 @@ Enith D. Sadler
 
 ==========================================================================
 ----- PROGRAM EXERCISE -----
+Instructions from page 252 (Prata, 2013).
+
 "Write a program using nested loops that asks the user to enter a value for
 the number of rows to display. It should then display that many rows of
 asterisks, with one asterish in the first row, two in the second row, and

@@ -1,12 +1,18 @@
-Ch5_ex6
+Ch5_ex5
 Version 1.1
 Enith D. Sadler
 
 ==========================================================================
 ----- PROGRAM EXERCISE -----
-"Do Programming Exercise 5 but use a two-dimensional array to store input
-for 3 years of monthly sales. Report the total sales for each individual
-year and for the combined years."
+Instructions from page 251 (Prata, 2013).
+
+"You sell the book 'C++ for Fools'. Write a program that has you enter a year's
+worth of monthly sales (in terms of number of books, not of money). The
+program should use a loop to prompt you by month, using an array of char
+*(or an array of string objects, if you prefer) initialized to the month 
+strings and storing the input data in an array of int. Then, the program
+should find the sum of the array contents and report the total sales for 
+the year."
 
 ==========================================================================
 ----- PLAN -----
