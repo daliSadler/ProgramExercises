@@ -4,6 +4,8 @@ Enith D. Sadler
 
 ==========================================================================
 ----- PROGRAM EXERCISE -----
+Intructions from page 251 and 252 (Prata, 2013).
+
 "Design a structure called car that holds the following information about
 an automobile: its make, as a string in a character array or in a string
 object, and the year it was built, as an integer. Write a program that
